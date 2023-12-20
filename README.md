@@ -5,6 +5,6 @@
 </div>
 <div>
   <h1>Here are some examples!</h1>
-  <h2>[Image of Globe in Space](images/pyramid.png)</h2>
+  ![Image of Globe in Space](images/pyramid.png)
 </div>
 
