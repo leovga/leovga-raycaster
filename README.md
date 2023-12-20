@@ -6,10 +6,10 @@
 <div>
   <h3>Here are some examples!</h3>
   <img src="images/pyramid.PNG" alt="A Sea of Sand with a Sailer"> 
+  <img src="images/bird.PNG" alt="A Bird flying over a field">
   <img src="images/space.PNG" alt="A Globe Textured as the Earth">
   <img src="images/test.PNG" alt="Some Shapes">
   <img src="images/test2.PNG" alt="Some More Shapes">
-  <img src="images/bird.PNG" alt="A Bird flying over a field">
 </div>
 <div>
   <h3>Here are some examples of generated Perlin Textures!</h3>
