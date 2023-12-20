@@ -5,6 +5,6 @@
 </div>
 <div>
   <h1>Here are some examples!</h1>
-  [Image of Globe in Space](images/pyramid.png)
+  <img src="iamges/pyramid.png" alt="A Sea of Sand with a Sailer"> 
 </div>
 
