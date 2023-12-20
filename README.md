@@ -5,6 +5,6 @@
 </div>
 <div>
   <h1>Here are some examples!</h1>
-  <img src="iamges/pyramid.png" alt="A Sea of Sand with a Sailer"> 
+  <img src="images/pyramid.png" alt="A Sea of Sand with a Sailer"> 
 </div>
 
